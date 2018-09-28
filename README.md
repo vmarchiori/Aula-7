@@ -1,1 +1,1 @@
-# Aula-7
+# A7-Econometria-Avancada
